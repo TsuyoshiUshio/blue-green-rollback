@@ -1,3 +1,8 @@
+# Deprecated!
+
+This repo is merged into [sakkuru/rollback-push](https://github.com/sakkuru/rollback-push). I misunderstood the cloud foundry cli spec. We can write two command in a plugin. :) I wrote this feature on the repository. Please refer and enjoy it.
+
+
 # Blue Green Rollback
 
 This is a Cloud Foundry CLI plugin. I learn/forked code from the great plugin, [autopilot](https://github.com/contraband/autopilot). You can use this command with 
