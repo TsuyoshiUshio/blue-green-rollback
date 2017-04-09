@@ -25,4 +25,7 @@ cf blue-green-rollback application-name g1
 cf start application-name-g1
 cf map-route application-name-g1 xxxx.io (domain name) -n application-name
 cf unmap-route application-name xxxx.io (domain name) -n application-name
+cf rename application-name application-name-now-on-swapping
+cf rename application-name-g1 application-name
+cf rename application-name-now-on-swapping application-name-g1
 ```
